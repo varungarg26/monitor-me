@@ -1,0 +1,32 @@
+{
+ "collection_info": {
+  "namespace": "community",
+  "name": "grafana",
+  "version": "1.1.0",
+  "authors": [
+   "R\u00e9mi REY (@rrey)",
+   "Thierry Sall\u00e9 (@seuf)"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "monitoring",
+   "grafana"
+  ],
+  "description": "Collection allowing to interact with Grafana APIs",
+  "license": [],
+  "license_file": "LICENSE",
+  "dependencies": {},
+  "repository": "https://github.com/ansible-collections/grafana.git",
+  "documentation": "https://github.com/ansible-collections/grafana.git",
+  "homepage": "https://github.com/ansible-collections/grafana",
+  "issues": "https://github.com/ansible-collections/grafana/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "085c537708e753dccbd2467de4a96c9021e7ca7dec5a785758609cea70dddb3e",
+  "format": 1
+ },
+ "format": 1
+}

@@ -1,0 +1,34 @@
+{
+ "file_manifest_file": {
+  "ftype": "file",
+  "name": "FILES.json",
+  "chksum_type": "sha256",
+  "format": 1,
+  "chksum_sha256": "2f3286f556bda40ba95e7c44f8d9f9a27fcf15106ca4d040440eb2399dd37c19"
+ },
+ "format": 1,
+ "collection_info": {
+  "license": [
+   "GPL-2.0-or-later"
+  ],
+  "authors": [
+   "Sebastian Gumprich <sebastian.gumprich@t-systems.com>",
+   "Lars Krahl <lars.krahl@t-systems.com>"
+  ],
+  "homepage": "https://github.com/T-Systems-MMS/ansible-collection-icinga-director",
+  "repository": "https://github.com/T-Systems-MMS/ansible-collection-icinga-director",
+  "namespace": "t_systems_mms",
+  "issues": "https://github.com/T-Systems-MMS/ansible-collection-icinga-director/issues",
+  "license_file": null,
+  "readme": "README.md",
+  "tags": [
+   "icinga",
+   "monitoring"
+  ],
+  "name": "icinga_director",
+  "dependencies": {},
+  "documentation": "https://github.com/T-Systems-MMS/ansible-collection-icinga-director",
+  "description": "This collection contains Ansible modules to change objects in Icinga 2 using the director API.",
+  "version": "1.13.0"
+ }
+}

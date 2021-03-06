@@ -1,0 +1,31 @@
+{
+ "collection_info": {
+  "namespace": "ansible",
+  "name": "windows",
+  "version": "1.3.0",
+  "authors": [
+   "Jordan Borean @jborean93",
+   "Matt Davis @nitzmahone"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "windows"
+  ],
+  "description": "Ansible collection for core Windows plugins.\n",
+  "license": [],
+  "license_file": "COPYING",
+  "dependencies": {},
+  "repository": "https://github.com/ansible-collections/ansible.windows",
+  "documentation": "https://github.com/ansible-collections/ansible.windows/tree/main/docs",
+  "homepage": "https://github.com/ansible-collections/ansible.windows",
+  "issues": "https://github.com/ansible-collections/ansible.windows/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "3f8e62d0355b22927afe51c0914e8b94423e1d197f86b6368b021add0825a2e0",
+  "format": 1
+ },
+ "format": 1
+}

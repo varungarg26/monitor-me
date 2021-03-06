@@ -1,0 +1,31 @@
+{
+ "collection_info": {
+  "namespace": "community",
+  "name": "rabbitmq",
+  "version": "1.0.1",
+  "authors": [
+   "Ansible (https://github.com/ansible)",
+   "community.rabbitmq (https://github.com/ansible-collections/rabbitmq/graphs/contributors)"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "messaging"
+  ],
+  "description": null,
+  "license": [],
+  "license_file": "COPYING",
+  "dependencies": {},
+  "repository": "https://github.com/ansible-collections/community.rabbitmq",
+  "documentation": "https://github.com/ansible-collections/community.rabbitmq/README.md",
+  "homepage": "https://github.com/ansible-collections/community.rabbitmq",
+  "issues": "https://github.com/ansible-collections/community.rabbitmq/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "bfcffba4d80eb6737b60e56ba84e031cdb5a21f368df865046722213ba43754a",
+  "format": 1
+ },
+ "format": 1
+}

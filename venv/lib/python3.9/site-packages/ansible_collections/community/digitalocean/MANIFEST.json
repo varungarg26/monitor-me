@@ -1,0 +1,36 @@
+{
+ "collection_info": {
+  "namespace": "community",
+  "name": "digitalocean",
+  "version": "1.0.0",
+  "authors": [
+   "Ansible (https://github.com/ansible)",
+   "BondAnthony (https://github.com/BondAnthony)",
+   "Akasurde (https://github.com/Akasurde)",
+   "pmarques (https://github.com/pmarques)",
+   "geerlingguy (https://www.jeffgeerling.com/)"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "digitalocean",
+   "cloud",
+   "droplet"
+  ],
+  "description": "DigitalOcean Ansible Collection.",
+  "license": [],
+  "license_file": "COPYING",
+  "dependencies": {},
+  "repository": "https://github.com/ansible-collections/community.digitalocean",
+  "documentation": "",
+  "homepage": "https://github.com/ansible-collections/community.digitalocean",
+  "issues": "https://github.com/ansible-collections/community.digitalocean/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "c6786b083f5bec0f2f9bbc73baedf87e926b2e1a480e1831a9160f6c95b8ef9f",
+  "format": 1
+ },
+ "format": 1
+}

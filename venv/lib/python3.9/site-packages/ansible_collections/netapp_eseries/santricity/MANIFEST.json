@@ -1,0 +1,35 @@
+{
+ "collection_info": {
+  "description": null, 
+  "repository": "https://www.github.com/netapp-eseries/santricity", 
+  "tags": [
+   "netapp", 
+   "eseries", 
+   "santricity"
+  ], 
+  "dependencies": {}, 
+  "authors": [
+   "Nathan Swartz (@ndswartz)"
+  ], 
+  "issues": "https://github.com/netappeseries/santricity/issues", 
+  "name": "santricity", 
+  "license": [
+   "GPL-3.0-only", 
+   "BSD-3-Clause"
+  ], 
+  "documentation": "https://www.netapp.com/us/media/tr-4574.pdf", 
+  "namespace": "netapp_eseries", 
+  "version": "1.1.0", 
+  "readme": "README.md", 
+  "license_file": null, 
+  "homepage": "https://www.github.com/netapp-eseries/santricity"
+ }, 
+ "file_manifest_file": {
+  "format": 1, 
+  "ftype": "file", 
+  "chksum_sha256": "ca2c7afeb1c3a6912dbf689a560cf94a6d2e2d7daaceacbc980c6a7cfbfce18e", 
+  "name": "FILES.json", 
+  "chksum_type": "sha256"
+ }, 
+ "format": 1
+}
