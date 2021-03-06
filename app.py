@@ -90,9 +90,19 @@ def home():
     return render_template('index.html')
 
 
-@app.route('/signup')
-def signup():
-    return 'This is the Sign Up Page'
+@app.route('/sign-in')
+def sign_in():
+    return render_template('sign_in.html')
+
+
+@app.route('/sign-up')
+def sign_up():
+    return render_template('sign_up.html')
+
+
+@app.route('/pressure-check')
+def pressure_check():
+    return render_template('pressure_check.html')
 
 
 if __name__ == '__main__':
